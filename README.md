@@ -1,0 +1,2 @@
+# MnyMkrs
+Simple stock analysis 
