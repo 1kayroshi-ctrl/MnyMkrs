@@ -48,3 +48,5 @@ Results:
 At the end of computing the model, the program ran 81 diffrent child processes, each running a diffrent model.
 Each model was automaticly queued after each other and the parent process ran for a total compute duration of 6h 19m 35.24s.
 
+<img width="1574" height="657" alt="image" src="https://github.com/user-attachments/assets/7a8e570b-f4f0-4c7a-906b-8fd670c86bc0" />
+
